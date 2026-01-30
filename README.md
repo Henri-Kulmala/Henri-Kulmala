@@ -3,7 +3,9 @@
 <br/>
 Hi, nice to meet you!
 Here you'll find my personal projects and work as well as school related assignments. 
-For more information about me and my work, head towards my personal portfolio website: [My Portfolio](https://henkkakoo.fi/) 
+For more information about me and my work, head towards my personal portfolio website ![Static Badge](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&link=https%3A%2F%2Fhenkkakoo.fi%2F)
+
+
 
 🏫 Studying in Haaga-Helia University of Applied Sciences, Pasila, Helsinki, Finland <br/>
 🔭 I’m currently working on an eCommerce website for a catering service<br>
