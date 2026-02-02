@@ -4,13 +4,18 @@
 Hi, nice to meet you!
 Here you'll find my personal projects and work as well as school related assignments. 
 For more information about me and my work, head towards my personal portfolio website:
+<br/>
+<br/>
+<a href="https://henkkakoo.fi">
+<img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge" />
+</a>
 
-
-![Static Badge](https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&link=https%3A%2F%2Fhenkkakoo.fi%2F)
-
+<br/>
+<br/>
 🏫 Studying in Haaga-Helia University of Applied Sciences, Pasila, Helsinki, Finland <br/>
 🔭 I’m currently working on an eCommerce website for a catering service<br>
 
+<br/>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/henri-kulmala-4a15b8359) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:henri.kulmala@henkkakoo.fi) 
