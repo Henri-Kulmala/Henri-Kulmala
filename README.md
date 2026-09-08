@@ -13,7 +13,6 @@ For more information about me and my work, head towards my personal portfolio we
 <br/>
 <br/>
 🏫 Studying in Haaga-Helia University of Applied Sciences, Pasila, Helsinki, Finland <br/>
-🔭 I’m currently working on an eCommerce website for a catering service<br>
 
 <br/>
 
